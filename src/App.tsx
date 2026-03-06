@@ -5,6 +5,7 @@ export default function Login() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#021417] to-[#041f23] p-6">
+      {/* body */}
       <div className="w-full max-w-md bg-white rounded-3xl shadow-2xl p-8 space-y-6">
         {/* Logo */}
         <div className="flex justify-center">
